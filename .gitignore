@@ -263,6 +263,6 @@ __pycache__/
 #User Defined
 Temp/
 .vs/
-Soluyion/.vs/
+Solution/.vs/
 *.opendb
 *.db
